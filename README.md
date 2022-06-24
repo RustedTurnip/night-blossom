@@ -21,7 +21,6 @@ This colour theme is designed to take advantage of `Semantic Highlighting` in VS
 ![nb-semantic-setting](./img/semantic-highlighting-setting.png)
 
 ## Supports:
-#
 
 ### Key
 

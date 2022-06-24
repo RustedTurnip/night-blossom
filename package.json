@@ -21,5 +21,9 @@
         ]
     },
     "license": "MIT",
-    "icon": "img/night-blossom-icon-128.png"
+    "icon": "img/night-blossom-icon-128.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RustedTurnip/night-blossom"
+    }
 }

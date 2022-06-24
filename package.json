@@ -2,7 +2,7 @@
     "name": "night-blossom",
     "displayName": "night blossom",
     "description": "Bring the brightness of spring to your editor!",
-    "version": "0.1.0-beta",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.68.0"
     },

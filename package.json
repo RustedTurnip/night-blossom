@@ -1,0 +1,25 @@
+{
+    "name": "night-blossom",
+    "displayName": "night blossom",
+    "description": "Bring the brightness of spring to your editor!",
+    "version": "0.0.0-dev",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "author": "RustedTurnip",
+    "publisher": "RustedTurnip",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "night blossom",
+                "uiTheme": "vs-dark",
+                "path": "./themes/night-blossom-color-theme.json"
+            }
+        ]
+    },
+    "license": "MIT",
+    "icon": "img/night-blossom-icon-128.png"
+}
